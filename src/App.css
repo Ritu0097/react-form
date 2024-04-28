@@ -1,0 +1,48 @@
+.signupForm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#email {
+  width: 360px;
+  height: 28px;
+  border: solid black 1px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+#password {
+  width: 360px;
+  height: 28px;
+  border: solid black 1px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.mypass {
+  margin-top: 20px;
+}
+
+.btn {
+  width: 128px;
+  height: 27px;
+  border: solid black 1px;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  display: block;
+  margin: 20px auto 0 auto;
+}
+
+#confirmPassword {
+  width: 360px;
+  height: 28px;
+  border: solid black 1px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
